@@ -1,1 +1,1 @@
-# FindMyCompetitors
+# Stock data scraping assignment
